@@ -4,7 +4,18 @@
     {
       "id": "neufundland",
       "name": "Neufundland",
-      "appointments": []
+      "appointments": [
+        {
+          "start": "2026-07-28T11:15:00Z",
+          "end": "2026-07-28T11:45:00Z",
+          "status": "busy"
+        },
+        {
+          "start": "2026-07-28T13:00:00Z",
+          "end": "2026-07-28T14:00:00Z",
+          "status": "busy"
+        }
+      ]
     }
   ]
 }
